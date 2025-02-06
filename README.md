@@ -11,7 +11,7 @@
 
 まずピンヘッダを、カットしたいピン数に対応する溝に、この写真のように差し込みます。奥まで差し込まれていることを確認してください。
 
-<img src="https://github.com/akita11/PinHeaderCutter/blob/main/PinHeaderCutter_usage2.jpg" width="240px">
+<img src="https://github.com/akita11/PinHeaderCutter/blob/main/PinHeaderCutter_usage2.png" width="240px">
 
 端の部分を、この写真のように折り曲げてカットします。
 
